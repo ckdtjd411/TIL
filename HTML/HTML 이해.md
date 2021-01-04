@@ -98,35 +98,3 @@
   * 문서의 기본 정보 설정이나 외부 스타일 시트 파일 및 js 파일을 연결하는 등의 역할
 * meta 태그의 charset 속성은 문자의 인코딩 방식을 지정
 * body 태그에는 실제 브라우저 화면에 나타나는 내용
-
-
-
-
-
-## 2. HTML 태그
-
-### 2.1 HTML 태그
-
-\[HTML 태그]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-
-#### 제목 태그
-
-* 제목(heading) 태그는 문서 내에 제목을 표현할 때 사용하는 태그
-* 제목의 레벨에 따라서 `<h1>~<h6>`까지 사용
-
-
-
-#### 단락 태그
-
-* paragraph를 줄여서 `<p>`로 사용
-* p를 사용해서 단락으로 구분하면 자연스럽게 개행이 됨
-* `<p>` 내부에서 임의로 개행을 하려면 개행 태그 `<br>` 사용 (linebreak)
-
-
-
-#### 텍스트 표현 태그
-
-\[Inline text semantics] : https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics
-
-
-
