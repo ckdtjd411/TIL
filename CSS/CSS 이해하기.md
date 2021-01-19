@@ -327,7 +327,7 @@ HTML
 	<h1>Hello, <em>CSS</em></h1>
 ```
 
-\<em>은 부모인 <h1>의 color: gray를 상속받는다.
+\<em>은 부모인 \<h1>의 color: gray를 상속받는다.
 
  박스 모델 속성들은 상속되지 않음 (margin, padding, background, border 등)
 
